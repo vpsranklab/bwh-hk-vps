@@ -1,4 +1,4 @@
-# BandwagonHOST 搬瓦工VPS，香港CN2 GIA，全新数据中心，1 Gbps企业级传输，支付宝/PayPal付款
+# BandwagonHOST：搬瓦工VPS，香港CN2 GIA，全新数据中心，1 Gbps企业级传输，支付宝/PayPal付款
 
 [搬瓦工BandwagonHOST](https://bwh81.net/aff.php?aff=66695) 香港 CN2 GIA 是在 2021 年上线的一个全新数据中心。
 
